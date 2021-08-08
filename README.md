@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yannick</h1>
-<h3 align="center">I`m a Full-Stack Developer currently searching for new projects and oportunities</h3>
+<h3 align="center">I`m a Full-Stack Developer currently searching for new projects and opportunities</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
