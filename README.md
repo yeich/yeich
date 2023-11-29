@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Yannick</h1>
 <h3 align="center">I`m a Full-Stack Developer currently searching for new projects and opportunities</h3>
 <p align="left">
-    <h3 align="center">Currently i am working on -> <a href="#"> some private Projects </a></h3>
+    <h3 align="center">Currently i am working on -> <a href="https://alphalightning.net"> AlphaLightning.net Website </a></h3>
 </p>
 
 <h3 align="left">Connect with me:</h3>
